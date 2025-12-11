@@ -3,13 +3,11 @@
 *.pdf
 old/
 experiments/
-results/
 res/
 logs/
 data/
 pkls/
 test/
-scrub/trained_models
 *.ipynb
 
 .DS_Store
